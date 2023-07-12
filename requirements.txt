@@ -1,0 +1,10 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+numpy==1.24.3
+picamera==1.13
+pillow==9.5.0
+python-dotenv==1.0.0
+requests==2.30.0
+tflite-runtime==2.11.0
+urllib3==2.0.2
